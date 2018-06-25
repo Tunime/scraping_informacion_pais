@@ -10,7 +10,7 @@ nombrepaise=[]
 #con esto defnimos si esta deolviendo el 200
 status_code = req.status_code
 #imprimimos la url para verificar si es corecta
-print(urlpaises)
+#print(urlpaises)
 if status_code == 200:
     #metemos todo el contenido del html en html
     html = BeautifulSoup(req.text, "html.parser")
@@ -24,16 +24,17 @@ if status_code == 200:
         nombrepaise.insert(i,textpaises)
 #este else es para si no hay respues de la web
 else:
-    print ("Status Code %d" % status_code)
+    #print ("Status Code %d" % status_code)
+    print(" ")
 #con esto lo que hacemos en recorrer el array verificar si estan los datos
 for i, nombrepaises in enumerate(nombrepaise):
-    print(nombrepaises)
+    #print(nombrepaises)
     #remplasamos los espacio por -
     nombrepaises.replace (" ", "-")
     #los incluimos dentro de la url que deseamos scrapear
     urlinformacio="http://www.banderas-mundo.es/continente"+"/"+nombrepaises
     #verificamos si la nformacion es valida
-    print(urlinformacio)
+    #print(urlinformacio)
     req = requests.get(urlinformacio)
     status_code = req.status_code
     if status_code == 200:
@@ -51,7 +52,7 @@ for i, nombrepaises in enumerate(nombrepaise):
                     print("INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (")
                 if i<13:
                     informacion_rapads=informacion_rapados.getText()
-                    print("'"+informacion_rapads+"'")
+                    print('"'+informacion_rapads+'"')
                     if i!=12:
                         print(",")
                 if i==13:
@@ -60,7 +61,8 @@ for i, nombrepaises in enumerate(nombrepaise):
             #nombrepaise.insert(i,textpaises)
     #este else es para si no hay respues de la web
     else:
-        print ("Status Code %d" % status_code)
+        print(" ")
+        #print ("Status Code %d" % status_code)
 
 
 #lo que debemos relisar es que esto este en un array y luego lo recorra para ponerlo en una url

@@ -1,0 +1,4143 @@
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Argelia"
+,
+"Argel"
+,
+"38.700.000 (2014)"
+,
+"2.381.740 km2"
+,
+"5. 7. 1962"
+,
+"Mount Tahat (3.003 m)"
+,
+"dolar 7.268 (FMI, 2012)"
+,
+"dinar argelino (DZD)"
+,
+"DZ (DZA)"
+,
+"+213"
+,
+".dz"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Benín"
+,
+"Porto-Novo"
+,
+"10.323.000 (2013)"
+,
+"112.622 km2"
+,
+"1. 8. 1960"
+,
+"Mont Sokbaro (658 m)"
+,
+"dolar 1.556 (FMI, 2012)"
+,
+"franco cfa (XOF)"
+,
+"BJ (BEN)"
+,
+"+229"
+,
+".bj"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Botsuana"
+,
+"Gaborone"
+,
+"2.024.904 (2011)"
+,
+"581.730 km2"
+,
+"30. 9. 1966"
+,
+"Otse Hill (1.491 m)"
+,
+"dolar 15.706 (FMI, 2012)"
+,
+"pula (BWP)"
+,
+"BW (BWA)"
+,
+"+267"
+,
+".bw"
+,
+"África"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Burundi"
+,
+"Buyumbura"
+,
+"10.163.000 (2013)"
+,
+"27.834 km2"
+,
+"1. 7. 1962"
+,
+"south east of Mount Heha (2.684 m)"
+,
+"dolar 619 (FMI, 2012)"
+,
+"franco de burundi (BIF)"
+,
+"BI (BDI)"
+,
+"+257"
+,
+".bi"
+,
+"África"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Camerún"
+,
+"Yaundé"
+,
+"20.386.799 (2012)"
+,
+"475.442 km2"
+,
+"1. 1. 1960"
+,
+"Fako on Mount Cameroon (4.040 m)"
+,
+"dolar 2.338 (FMI, 2012)"
+,
+"franco cfa (XAF)"
+,
+"CM (CMR)"
+,
+"+237"
+,
+".cm"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Chad"
+,
+"Yamena"
+,
+"12.825.000 (2013)"
+,
+"1.284.000 km2"
+,
+"11. 8. 1960"
+,
+"Emi Koussi (3.445 m)"
+,
+"dolar 2.474 (FMI, 2012)"
+,
+"franco cfa (XAF)"
+,
+"TD (TCD)"
+,
+"+235"
+,
+".td"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Comoras"
+,
+"Moroni"
+,
+"743.798 (2013)"
+,
+"2.235 km2"
+,
+"6. 7. 1975"
+,
+"Le Kartala (2.360 m)"
+,
+"dolar 1.251 (FMI, 2012)"
+,
+"franco comorense (KMF)"
+,
+"KM (COM)"
+,
+"+269"
+,
+".km"
+,
+"África"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Egipto"
+,
+"El Cairo"
+,
+"86.127.000 (2014)"
+,
+"980.869 km2"
+,
+"28. 2. 1922"
+,
+"Mount Catherine (2.629 m)"
+,
+"dolar 6.474 (FMI, 2012)"
+,
+"libra egipcia (EGP)"
+,
+"EG (EGY)"
+,
+"+20"
+,
+".eg"
+,
+"África, Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Eritrea"
+,
+"Asmara"
+,
+"6.333.000 (2013)"
+,
+"117.600 km2"
+,
+"24. 5. 1993"
+,
+"Amba Soira (3.018 m)"
+,
+"dolar 710 (FMI, 2012)"
+,
+"nakfa (ERN)"
+,
+"ER (ERI)"
+,
+"+291"
+,
+".er"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Etiopía"
+,
+"Adís Abeba"
+,
+"86.613.986 (2013)"
+,
+"1.104.300 km2"
+,
+"/"
+,
+"Ras Dejen (4.550 m)"
+,
+"dolar 1.256 (FMI, 2012)"
+,
+"birr etíope (ETB)"
+,
+"ET (ETH)"
+,
+"+251"
+,
+".et"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Gabón"
+,
+"Libreville"
+,
+"1.672.000 (2013)"
+,
+"267.668 km2"
+,
+"17. 8. 1960"
+,
+"Mont Bengoué (1.070 m)"
+,
+"dolar 18.051 (FMI, 2012)"
+,
+"franco cfa (XAF)"
+,
+"GA (GAB)"
+,
+"+241"
+,
+".ga"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Gambia"
+,
+"Banjul"
+,
+"1.849.000 (2013)"
+,
+"11.295 km2"
+,
+"18. 2. 1965"
+,
+"53 m"
+,
+"dolar 1.868 (FMI, 2012)"
+,
+"dalasi gambiano (GMD)"
+,
+"GM (GMB)"
+,
+"+220"
+,
+".gm"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Ghana"
+,
+"Accra"
+,
+"24.658.823 (2010)"
+,
+"238.533 km2"
+,
+"6. 3. 1957"
+,
+"Mount Afadjato (880 m)"
+,
+"dolar 3.316 (FMI, 2012)"
+,
+"cedi (GHS)"
+,
+"GH (GHA)"
+,
+"+233"
+,
+".gh"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Guinea"
+,
+"Conakry"
+,
+"10.824.200 (2010)"
+,
+"245.857 km2"
+,
+"2. 10. 1958"
+,
+"Mont Nimba (1.752 m)"
+,
+"dolar 1.109 (FMI, 2012)"
+,
+"franco guineano (GNF)"
+,
+"GN (GIN)"
+,
+"+224"
+,
+".gn"
+,
+"África"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Guinea-Bissau"
+,
+"Bissau"
+,
+"1.704.000 (2013)"
+,
+"36.125 km2"
+,
+"24. 9. 1973"
+,
+"300 m"
+,
+"dolar 1.210 (FMI, 2012)"
+,
+"franco cfa (XOF)"
+,
+"GW (GNB)"
+,
+"+245"
+,
+".gw"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Kenia"
+,
+"Nairobi"
+,
+"44.354.000 (2013)"
+,
+"580.367 km2"
+,
+"12. 12. 1963"
+,
+"Batian on Mount Kenya (5.199 m)"
+,
+"dolar 1.781 (FMI, 2012)"
+,
+"chelín keniano (KES)"
+,
+"KE (KEN)"
+,
+"+254"
+,
+".ke"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Lesoto"
+,
+"Maseru"
+,
+"2.074.000 (2013)"
+,
+"30.355 km2"
+,
+"4. 10. 1966"
+,
+"Thabana Ntlenyana (3.482 m)"
+,
+"dolar 2.126 (FMI, 2012)"
+,
+"lesotho loti (LSL)"
+,
+"LS (LSO)"
+,
+"+266"
+,
+".ls"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Liberia"
+,
+"Monrovia"
+,
+"4.294.000 (2013)"
+,
+"111.369 km2"
+,
+"26. 7. 1847"
+,
+"Mount Wuteve (1.440 m)"
+,
+"dolar 665 (FMI, 2012)"
+,
+"dólar liberiano (LRD)"
+,
+"LR (LBR)"
+,
+"+231"
+,
+".lr"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Libia"
+,
+"Trípoli"
+,
+"6.202.000 (2013)"
+,
+"1.759.540 km2"
+,
+"24. 12. 1951"
+,
+"Bikku Bitti (2.267 m)"
+,
+"dolar 11.936 (FMI, 2012)"
+,
+"dinar libio (LYD)"
+,
+"LY (LBY)"
+,
+"+218"
+,
+".ly"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Madagascar"
+,
+"Antananarivo"
+,
+"21.263.403 (2012)"
+,
+"587.041 km2"
+,
+"26. 6. 1960"
+,
+"Maromokotro (2.876 m)"
+,
+"dolar 945 (FMI, 2012)"
+,
+"ariary malgache (MGA)"
+,
+"MG (MDG)"
+,
+"+261"
+,
+".mg"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Malawi"
+,
+"Lilongüe"
+,
+"16.363.000 (2013)"
+,
+"118.484 km2"
+,
+"6. 7. 1964"
+,
+"Sapitwa (Mount Mlanje) (3.002 m)"
+,
+"dolar 848 (FMI, 2012)"
+,
+"el kwacha de malawi (MWK)"
+,
+"MW (MWI)"
+,
+"+265"
+,
+".mw"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Malí"
+,
+"Bamako"
+,
+"15.302.000 (2013)"
+,
+"1.240.190 km2"
+,
+"22. 9. 1960"
+,
+"Hombori Tondo (1.155 m)"
+,
+"dolar 1.088 (FMI, 2012)"
+,
+"franco cfa (XOF)"
+,
+"ML (MLI)"
+,
+"+223"
+,
+".ml"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Marruecos"
+,
+"Rabat"
+,
+"33.202.300 (2014)"
+,
+"446.550 km2"
+,
+"2. 3. 1956"
+,
+"Jbel Toubkal (4.165 m)"
+,
+"dolar 5.193 (FMI, 2012)"
+,
+"dírham marroquí (MAD)"
+,
+"MA (MAR)"
+,
+"+212"
+,
+".ma"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Mauricio"
+,
+"Port Louis"
+,
+"1.257.900 (2011)"
+,
+"2.040 km2"
+,
+"12. 3. 1968"
+,
+"Mont Piton (828 m)"
+,
+"dolar 15.424 (FMI, 2012)"
+,
+"rupia de mauricio (MUR)"
+,
+"MU (MUS)"
+,
+"+230"
+,
+".mu"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Mauritania"
+,
+"Nuakchot"
+,
+"3.461.041 (2013)"
+,
+"1.025.520 km2"
+,
+"28. 11. 1960"
+,
+"Kediet Ijill (915 m)"
+,
+"dolar 2.096 (FMI, 2012)"
+,
+"mauritania ouguiya (MRO)"
+,
+"MR (MRT)"
+,
+"+222"
+,
+".mr"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Mozambique"
+,
+"Maputo"
+,
+"23.700.715 (2012)"
+,
+"801.590 km2"
+,
+"25. 6. 1975"
+,
+"Monte Binga (2.436 m)"
+,
+"dolar 1.155 (FMI, 2012)"
+,
+"metical mozambiqueño (MZN)"
+,
+"MZ (MOZ)"
+,
+"+258"
+,
+".mz"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Namibia"
+,
+"Windhoek"
+,
+"2.113.077 (2011)"
+,
+"824.292 km2"
+,
+"21. 3. 1990"
+,
+"Konigstein (2.606 m)"
+,
+"dolar 7.800 (FMI, 2012)"
+,
+"dólar namibio (NAD)"
+,
+"NA (NAM)"
+,
+"+264"
+,
+".na"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Níger"
+,
+"Niamey"
+,
+"17.129.076 (2012)"
+,
+"1.267.000 km2"
+,
+"/"
+,
+"Mont Bagzane (2.022 m)"
+,
+"dolar 807 (FMI, 2012)"
+,
+"franco cfa (XOF)"
+,
+"NE (NER)"
+,
+"+227"
+,
+".ne"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Nigeria"
+,
+"Abuja"
+,
+"173.615.000 (2013)"
+,
+"923.768 km2"
+,
+"1. 10. 1960"
+,
+"Chappal Waddi (2.419 m)"
+,
+"dolar 2.697 (FMI, 2012)"
+,
+"naira (NGN)"
+,
+"NG (NGA)"
+,
+"+234"
+,
+".ng"
+,
+"África"
+);
+ 
+ 
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Ruanda"
+,
+"Kigali"
+,
+"10.537.222 (2012)"
+,
+"26.338 km2"
+,
+"1. 7. 1962"
+,
+"Mount Karisimbi (4.519 m)"
+,
+"dolar 1.441 (FMI, 2012)"
+,
+"franco ruandés (RWF)"
+,
+"RW (RWA)"
+,
+"+250"
+,
+".rw"
+,
+"África"
+);
+ 
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Senegal"
+,
+"Dakar"
+,
+"13.567.338 (2013)"
+,
+"196.722 km2"
+,
+"4. 4. 1960"
+,
+"581 m"
+,
+"dolar 2.005 (FMI, 2012)"
+,
+"franco cfa (XOF)"
+,
+"SN (SEN)"
+,
+"+221"
+,
+".sn"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Seychelles"
+,
+"Victoria"
+,
+"90.945 (2010)"
+,
+"455 km2"
+,
+"29. 6. 1976"
+,
+"Morne Seychellois (905 m)"
+,
+"dolar 24.989 (FMI, 2012)"
+,
+"rupia de seychelles (SCR)"
+,
+"SC (SYC)"
+,
+"+248"
+,
+".sc"
+,
+"África"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Somalia"
+,
+"Mogadiscio"
+,
+"10.496.000 (2013)"
+,
+"637.657 km2"
+,
+"1. 7. 1960"
+,
+"Shimbiris (2.450 m)"
+,
+"/"
+,
+"chelín somalí (SOS)"
+,
+"SO (SOM)"
+,
+"+252"
+,
+".so"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Suazilandia"
+,
+"Lobamba"
+,
+"1.250.000 (2013)"
+,
+"17.364 km2"
+,
+"6. 9. 1968"
+,
+"Emlembe (1.862 m)"
+,
+"dolar 5.719 (FMI, 2012)"
+,
+"swazilandia lilangeni (SZL)"
+,
+"SZ (SWZ)"
+,
+"+268"
+,
+".sz"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Sudáfrica"
+,
+"Pretoria"
+,
+"52.981.991 (2013)"
+,
+"1.221.040 km2"
+,
+"31. 5. 1910"
+,
+"Mafadi (3.450 m)"
+,
+"dolar 11.281 (FMI, 2012)"
+,
+"rand sudafricano (ZAR)"
+,
+"ZA (ZAF)"
+,
+"+27"
+,
+".za"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Sudán"
+,
+"Jartum"
+,
+"37.964.000 (2013)"
+,
+"2.505.810 km2"
+,
+"1. 1. 1956"
+,
+"Kinyeti (3.187 m)"
+,
+"dolar 2.549 (FMI, 2012)"
+,
+"libra sudanesa (SDG)"
+,
+"SD (SDN)"
+,
+"+249"
+,
+".sd"
+,
+"África"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Tanzania"
+,
+"Dodoma"
+,
+"44.928.923 (2012)"
+,
+"945.087 km2"
+,
+"26. 4. 1964"
+,
+"Kibo on Mount Kilimanjaro (5.895 m)"
+,
+"dolar 1.627 (FMI, 2012)"
+,
+"chelín tanzano (TZS)"
+,
+"TZ (TZA)"
+,
+"+255"
+,
+".tz"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Togo"
+,
+"Lomé"
+,
+"6.191.155 (2010)"
+,
+"56.785 km2"
+,
+"27. 4. 1960"
+,
+"Mont Agou (986 m)"
+,
+"dolar 1.093 (FMI, 2012)"
+,
+"franco cfa (XOF)"
+,
+"TG (TGO)"
+,
+"+228"
+,
+".tg"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Túnez"
+,
+"Túnez"
+,
+"10.886.500 (2013)"
+,
+"163.610 km2"
+,
+"20. 3. 1956"
+,
+"Jebel ech Chambi (1.544 m)"
+,
+"dolar 9.650 (FMI, 2012)"
+,
+"dinar tunecino (TND)"
+,
+"TN (TUN)"
+,
+"+216"
+,
+".tn"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Uganda"
+,
+"Kampala"
+,
+"35.357.000 (2013)"
+,
+"241.038 km2"
+,
+"/"
+,
+"Margherita Peak on Mount Stanley (5.110 m)"
+,
+"dolar 1.424 (FMI, 2012)"
+,
+"chelín ugandés (UGX)"
+,
+"UG (UGA)"
+,
+"+256"
+,
+".ug"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Yibuti"
+,
+"Yibuti"
+,
+"873.000 (2013)"
+,
+"23.200 km2"
+,
+"27. 6. 1977"
+,
+"Mousa Ali (2.028 m)"
+,
+"dolar 2.648 (FMI, 2012)"
+,
+"franco yibutiano (DJF)"
+,
+"DJ (DJI)"
+,
+"+253"
+,
+".dj"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Zambia"
+,
+"Lusaka"
+,
+"14.580.290 (2013)"
+,
+"752.618 km2"
+,
+"24. 10. 1964"
+,
+"2.329 m"
+,
+"dolar 1.683 (FMI, 2012)"
+,
+"kwacha zambiano (ZMW)"
+,
+"ZM (ZMB)"
+,
+"+260"
+,
+".zm"
+,
+"África"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Zimbabue"
+,
+"Harare"
+,
+"12.973.808 (2012)"
+,
+"390.757 km2"
+,
+"18. 4. 1980"
+,
+"Mount Nyangani (2.592 m)"
+,
+"dolar 552 (FMI, 2012)"
+,
+"dólar de los estados unidos (USD)"
+,
+"ZW (ZWE)"
+,
+"+263"
+,
+".zw"
+,
+"África"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Bahamas"
+,
+"Nassau"
+,
+"351.461 (2010)"
+,
+"13.878 km2"
+,
+"10. 7. 1973"
+,
+"Mount Alvernia on Cat Island (63 m)"
+,
+"dolar 31.324 (FMI, 2012)"
+,
+"dólar bahameño (BSD)"
+,
+"BS (BHS)"
+,
+"+1 242"
+,
+".bs"
+,
+"América del Norte"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Barbados"
+,
+"Bridgetown"
+,
+"285.000 (2013)"
+,
+"430 km2"
+,
+"30. 11. 1966"
+,
+"Mount Hillaby (336 m)"
+,
+"dolar 25.043 (FMI, 2012)"
+,
+"dólar de barbados (BBD)"
+,
+"BB (BRB)"
+,
+"+1 246"
+,
+".bb"
+,
+"América del Norte"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Belice"
+,
+"Belmopan"
+,
+"349.728 (2013)"
+,
+"22.966 km2"
+,
+"21. 9. 1981"
+,
+"Doyle's Delight (1.124 m)"
+,
+"dolar 8.659 (FMI, 2012)"
+,
+"dólar beliceño (BZD)"
+,
+"BZ (BLZ)"
+,
+"+501"
+,
+".bz"
+,
+"América del Norte"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Canadá"
+,
+"Ottawa"
+,
+"35.295.770 (2013)"
+,
+"9.970.610 km2"
+,
+"1. 7. 1867"
+,
+"Mount Logan (5.959 m)"
+,
+"dolar 42.317 (FMI, 2012)"
+,
+"dólar canadiense (CAD)"
+,
+"CA (CAN)"
+,
+"+1 XXX"
+,
+".ca"
+,
+"América del Norte"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Cuba"
+,
+"La Habana"
+,
+"11.167.325 (2012)"
+,
+"110.861 km2"
+,
+"20. 5. 1902"
+,
+"Pico Turquino (1.974 m)"
+,
+"/"
+,
+"peso cubano (CUC)"
+,
+"CU (CUB)"
+,
+"+53"
+,
+".cu"
+,
+"América del Norte"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Dominica"
+,
+"Roseau"
+,
+"71.293 (2011)"
+,
+"751 km2"
+,
+"3. 11. 1978"
+,
+"Morne Diablotins (1.447 m)"
+,
+"dolar 13.994 (FMI, 2012)"
+,
+"dólar del caribe oriental (XCD)"
+,
+"DM (DMA)"
+,
+"+1 767"
+,
+".dm"
+,
+"América del Norte"
+);
+ 
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Granada"
+,
+"Saint George's"
+,
+"103.328 (2011)"
+,
+"344 km2"
+,
+"7. 2. 1974"
+,
+"Mount Saint Catherine (840 m)"
+,
+"dolar 13.549 (FMI, 2012)"
+,
+"dólar del caribe oriental (XCD)"
+,
+"GD (GRD)"
+,
+"+1 473"
+,
+".gd"
+,
+"América del Norte"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Guatemala"
+,
+"Guatemala"
+,
+"15.806.675 (2014)"
+,
+"108.889 km2"
+,
+"15. 9. 1821"
+,
+"Volcán Tajumulco (4.220 m)"
+,
+"dolar 5.153 (FMI, 2012)"
+,
+"quetzal (GTQ)"
+,
+"GT (GTM)"
+,
+"+502"
+,
+".gt"
+,
+"América del Norte"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Haití"
+,
+"Puerto Príncipe"
+,
+"10.413.211 (2012)"
+,
+"27.750 km2"
+,
+"1. 1. 1804"
+,
+"Pic la Selle (2.680 m)"
+,
+"dolar 1.229 (FMI, 2012)"
+,
+"haitiano de haití (HTG)"
+,
+"HT (HTI)"
+,
+"+509"
+,
+".ht"
+,
+"América del Norte"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Honduras"
+,
+"Tegucigalpa"
+,
+"8.555.072 (2013)"
+,
+"112.088 km2"
+,
+"15. 9. 1821"
+,
+"Cerro Las Minas (2.870 m)"
+,
+"dolar 4.744 (FMI, 2012)"
+,
+"lempira (HNL)"
+,
+"HN (HND)"
+,
+"+504"
+,
+".hn"
+,
+"América del Norte"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Jamaica"
+,
+"Kingston"
+,
+"2.711.476 (2012)"
+,
+"10.991 km2"
+,
+"6. 8. 1962"
+,
+"Blue Mountain Peak (2.256 m)"
+,
+"dolar 8.916 (FMI, 2012)"
+,
+"dólar jamaiquino (JMD)"
+,
+"JM (JAM)"
+,
+"+1 876"
+,
+".jm"
+,
+"América del Norte"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"México"
+,
+"Ciudad de México"
+,
+"119.713.203 (2014)"
+,
+"1.958.200 km2"
+,
+"16. 9. 1810"
+,
+"Pico de Orizaba (5.636 m)"
+,
+"dolar 15.363 (FMI, 2012)"
+,
+"peso mexicano (MXN)"
+,
+"MX (MEX)"
+,
+"+52"
+,
+".mx"
+,
+"América del Norte"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Nicaragua"
+,
+"Managua"
+,
+"6.071.045 (2012)"
+,
+"130.000 km2"
+,
+"15. 9. 1821"
+,
+"Mogoton (2.438 m)"
+,
+"dolar 4.352 (FMI, 2012)"
+,
+"córdoba (NIO)"
+,
+"NI (NIC)"
+,
+"+505"
+,
+".ni"
+,
+"América del Norte"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Panamá"
+,
+"Panamá"
+,
+"3.405.813 (2010)"
+,
+"75.517 km2"
+,
+"3. 11. 1903"
+,
+"Volcan de Chiriqui (3.475 m)"
+,
+"dolar 15.449 (FMI, 2012)"
+,
+"balboa (PAB)"
+,
+"PA (PAN)"
+,
+"+507"
+,
+".pa"
+,
+"América del Norte"
+);
+ 
+ 
+ 
+ 
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Argentina"
+,
+"Buenos Aires"
+,
+"41.660.096 (2010)"
+,
+"2.780.400 km2"
+,
+"9. 7. 1816"
+,
+"Aconcagua (6.960 m)"
+,
+"dolar 17.917 (FMI, 2012)"
+,
+"peso argentino (ARS)"
+,
+"AR (ARG)"
+,
+"+54"
+,
+".ar"
+,
+"América del Sur"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Bolivia"
+,
+"Sucre"
+,
+"10.027.254 (2012)"
+,
+"1.098.580 km2"
+,
+"6. 8. 1825"
+,
+"Nevado Sajama (6.542 m)"
+,
+"dolar 5.041 (FMI, 2012)"
+,
+"boliviano (BOB)"
+,
+"BO (BOL)"
+,
+"+591"
+,
+".bo"
+,
+"América del Sur"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Brasil"
+,
+"Brasilia"
+,
+"201.032.714 (2013)"
+,
+"8.514.880 km2"
+,
+"7. 9. 1822"
+,
+"Pico da Neblina (2.994 m)"
+,
+"dolar 11.747 (FMI, 2012)"
+,
+"real brasileño (BRL)"
+,
+"BR (BRA)"
+,
+"+55"
+,
+".br"
+,
+"América del Sur"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Chile"
+,
+"Santiago de Chile"
+,
+"16.341.929 (2012)"
+,
+"756.096 km2"
+,
+"18. 9. 1810"
+,
+"Ojos del Salado (6.893 m)"
+,
+"dolar 18.211 (FMI, 2012)"
+,
+"peso chileno (CLP)"
+,
+"CL (CHL)"
+,
+"+56"
+,
+".cl"
+,
+"América del Sur"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Colombia"
+,
+"Santa Fe de Bogotá"
+,
+"47.506.000 (2014)"
+,
+"1.138.910 km2"
+,
+"20. 7. 1810"
+,
+"Pico Cristóbal Colón (5.700 m)"
+,
+"dolar 10.671 (FMI, 2012)"
+,
+"peso colombiano (COP)"
+,
+"CO (COL)"
+,
+"+57"
+,
+".co"
+,
+"América del Sur"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Ecuador"
+,
+"Quito"
+,
+"15.699.200 (2014)"
+,
+"283.561 km2"
+,
+"24. 5. 1822"
+,
+"Mount Chimborazo (6.267 m)"
+,
+"dolar 10.215 (FMI, 2012)"
+,
+"dólar de los estados unidos (USD)"
+,
+"EC (ECU)"
+,
+"+593"
+,
+".ec"
+,
+"América del Sur"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Guyana"
+,
+"Georgetown"
+,
+"784.894 (2010)"
+,
+"214.969 km2"
+,
+"26. 5. 1966"
+,
+"Mount Roraima (2.750 m)"
+,
+"dolar 7.965 (FMI, 2012)"
+,
+"dólar guyanés (GYD)"
+,
+"GY (GUY)"
+,
+"+592"
+,
+".gy"
+,
+"América del Sur"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Paraguay"
+,
+"Asunción"
+,
+"6.783.374 (2013)"
+,
+"406.752 km2"
+,
+"14. 5. 1811"
+,
+"Cerro Pero (Cerro Tres Kandu) (842 m)"
+,
+"dolar 6.053 (FMI, 2012)"
+,
+"guaraní (PYG)"
+,
+"PY (PRY)"
+,
+"+595"
+,
+".py"
+,
+"América del Sur"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Perú"
+,
+"Lima"
+,
+"30.475.144 (2013)"
+,
+"1.285.220 km2"
+,
+"28. 7. 1821"
+,
+"Huascarán (6.768 m)"
+,
+"dolar 10.596 (FMI, 2012)"
+,
+"nuevo sol (PEN)"
+,
+"PE (PER)"
+,
+"+51"
+,
+".pe"
+,
+"América del Sur"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Surinam"
+,
+"Paramaribo"
+,
+"534.189 (2012)"
+,
+"163.820 km2"
+,
+"25. 11. 1975"
+,
+"Juliana Top (1.230 m)"
+,
+"dolar 12.299 (FMI, 2012)"
+,
+"dólar surinamés (SRD)"
+,
+"SR (SUR)"
+,
+"+597"
+,
+".sr"
+,
+"América del Sur"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Uruguay"
+,
+"Montevideo"
+,
+"3.286.314 (2011)"
+,
+"175.016 km2"
+,
+"25. 8. 1825"
+,
+"Cerro Catedral (Uruguay) (514 m)"
+,
+"dolar 15.865 (FMI, 2012)"
+,
+"peso uruguayo (UYU)"
+,
+"UY (URY)"
+,
+"+598"
+,
+".uy"
+,
+"América del Sur"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Venezuela"
+,
+"Caracas"
+,
+"28.946.101 (2011)"
+,
+"912.050 km2"
+,
+"5. 7. 1811"
+,
+"Pico Bolívar (La Columna) (4.981 m)"
+,
+"dolar 13.480 (FMI, 2012)"
+,
+"bolívar (VEF)"
+,
+"VE (VEN)"
+,
+"+58"
+,
+".ve"
+,
+"América del Sur"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Afganistán"
+,
+"Kabul"
+,
+"25.500.100 (2013)"
+,
+"652.090 km2"
+,
+"19. 8. 1919"
+,
+"Noshaq (7.492 m)"
+,
+"dolar 1.055 (FMI, 2012)"
+,
+"afgani afgano (AFN)"
+,
+"AF (AFG)"
+,
+"+93"
+,
+".af"
+,
+"Asia"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Armenia"
+,
+"Ereván"
+,
+"3.017.400 (2013)"
+,
+"29.800 km2"
+,
+"21. 9. 1991"
+,
+"Mount Aragats (4.090 m)"
+,
+"dolar 5.924 (FMI, 2012)"
+,
+"dram armenio (AMD)"
+,
+"AM (ARM)"
+,
+"+374"
+,
+".am"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Azerbaiyán"
+,
+"Baku"
+,
+"9.477.100 (2013)"
+,
+"86.600 km2"
+,
+"30. 8. 1991"
+,
+"Bazarduzu Dagi (4.485 m)"
+,
+"dolar 10.365 (FMI, 2012)"
+,
+"manat azerbaiyano (AZN)"
+,
+"AZ (AZE)"
+,
+"+994"
+,
+".az"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Bahréin"
+,
+"Manama"
+,
+"1.234.571 (2010)"
+,
+"694 km2"
+,
+"15. 8. 1971"
+,
+"Jabal ad Dukhan (122 m)"
+,
+"dolar 28.691 (FMI, 2012)"
+,
+"dinar bareiní (BHD)"
+,
+"BH (BHR)"
+,
+"+973"
+,
+".bh"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Bangladesh"
+,
+"Dacca"
+,
+"152.518.015 (2012)"
+,
+"143.998 km2"
+,
+"16. 12. 1971"
+,
+"Mowdok (1.052 m)"
+,
+"dolar 1.963 (FMI, 2012)"
+,
+"taka bangladesí (BDT)"
+,
+"BD (BGD)"
+,
+"+880"
+,
+".bd"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Brunéi"
+,
+"Bandar Seri Begawan"
+,
+"393.162 (2011)"
+,
+"5.765 km2"
+,
+"1. 1. 1984"
+,
+"Bukit Pagon (1.850 m)"
+,
+"dolar 54.114 (FMI, 2012)"
+,
+"dólar de brunéi (BND)"
+,
+"BN (BRN)"
+,
+"+673"
+,
+".bn"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Bután"
+,
+"Thimbu"
+,
+"745.200 (2014)"
+,
+"47.000 km2"
+,
+"8. 8. 1949"
+,
+"Gangkhar Puensum (7.570 m)"
+,
+"dolar 6.564 (FMI, 2012)"
+,
+"ngultrum butanés (BTN)"
+,
+"BT (BTN)"
+,
+"+975"
+,
+".bt"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Camboya"
+,
+"Phnom Penh"
+,
+"15.135.000 (2013)"
+,
+"181.035 km2"
+,
+"9. 11. 1953"
+,
+"Phnum Aoral (1.810 m)"
+,
+"dolar 2.395 (FMI, 2012)"
+,
+"riel camboyano (KHR)"
+,
+"KH (KHM)"
+,
+"+855"
+,
+".kh"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"China"
+,
+"Pekín"
+,
+"1.363.350.000 (2014)"
+,
+"9.640.820 km2"
+,
+"/"
+,
+"Mount Everest (8.848 m)"
+,
+"dolar 9.055 (FMI, 2012)"
+,
+"yuan chino (CNY)"
+,
+"CN (CHN)"
+,
+"+86"
+,
+".cn"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Chipre"
+,
+"Nicosia"
+,
+"865.878 (2012)"
+,
+"9.251 km2"
+,
+"16. 8. 1960"
+,
+"Mount Olympus (Cyprus) (1.951 m)"
+,
+"dolar 26.794 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"CY (CYP)"
+,
+"+357"
+,
+".cy"
+,
+"Asia"
+);
+ 
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Egipto"
+,
+"El Cairo"
+,
+"86.127.000 (2014)"
+,
+"980.869 km2"
+,
+"28. 2. 1922"
+,
+"Mount Catherine (2.629 m)"
+,
+"dolar 6.474 (FMI, 2012)"
+,
+"libra egipcia (EGP)"
+,
+"EG (EGY)"
+,
+"+20"
+,
+".eg"
+,
+"África, Asia"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Filipinas"
+,
+"Manila"
+,
+"99.275.100 (2014)"
+,
+"300.000 km2"
+,
+"12. 6. 1898"
+,
+"Mount Apo (2.954 m)"
+,
+"dolar 4.380 (FMI, 2012)"
+,
+"peso filipino (PHP)"
+,
+"PH (PHL)"
+,
+"+63"
+,
+".ph"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Georgia"
+,
+"Tiflis"
+,
+"4.483.800 (2013)"
+,
+"69.700 km2"
+,
+"9. 4. 1991"
+,
+"Mt'a Shkhara (5.201 m)"
+,
+"dolar 5.842 (FMI, 2012)"
+,
+"lari georgiano (GEL)"
+,
+"GE (GEO)"
+,
+"+995"
+,
+".ge"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"India"
+,
+"Nueva Delhi"
+,
+"1.241.610.000 (2014)"
+,
+"3.287.260 km2"
+,
+"15. 8. 1947"
+,
+"Kangchenjunga (8.586 m)"
+,
+"dolar 3.843 (FMI, 2012)"
+,
+"rupia india (INR)"
+,
+"IN (IND)"
+,
+"+91"
+,
+".in"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Indonesia"
+,
+"Yakarta"
+,
+"249.866.000 (2013)"
+,
+"1.904.570 km2"
+,
+"17. 8. 1945"
+,
+"Mount Carstensz (Puncak Jaya) (4.884 m)"
+,
+"dolar 4.923 (FMI, 2012)"
+,
+"rupia indonesia (IDR)"
+,
+"ID (IDN)"
+,
+"+62"
+,
+".id"
+,
+"Asia, Oceanía"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Irán"
+,
+"Teheran"
+,
+"77.288.000 (2014)"
+,
+"1.648.200 km2"
+,
+"1. 4. 1979"
+,
+"Damavand (5.610 m)"
+,
+"dolar 12.986 (FMI, 2012)"
+,
+"rial iraní (IRR)"
+,
+"IR (IRN)"
+,
+"+98"
+,
+".ir"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Iraq"
+,
+"Bagdad"
+,
+"34.035.000 (2012)"
+,
+"438.317 km2"
+,
+"3. 10. 1932"
+,
+"Cheekha Dar (3.611 m)"
+,
+"dolar 7.004 (FMI, 2012)"
+,
+"dinar iraquí (IQD)"
+,
+"IQ (IRQ)"
+,
+"+964"
+,
+".iq"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Israel"
+,
+"Jerusalén"
+,
+"8.146.300 (2014)"
+,
+"22.145 km2"
+,
+"14. 5. 1948"
+,
+"Mount Hermon (2.236 m)"
+,
+"dolar 33.878 (FMI, 2012)"
+,
+"el shekel israelí (ILS)"
+,
+"IL (ISR)"
+,
+"+972"
+,
+".il"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Japón"
+,
+"Tokio"
+,
+"127.180.000 (2014)"
+,
+"377.873 km2"
+,
+"/"
+,
+"Mount Fuji (3.776 m)"
+,
+"dolar 35.855 (FMI, 2012)"
+,
+"yen (JPY)"
+,
+"JP (JPN)"
+,
+"+81"
+,
+".jp"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Jordania"
+,
+"Ammán"
+,
+"6.558.900 (2014)"
+,
+"89.342 km2"
+,
+"25. 5. 1946"
+,
+"Jabal Umm ad Dami (1.854 m)"
+,
+"dolar 5.977 (FMI, 2012)"
+,
+"dinar jordano (JOD)"
+,
+"JO (JOR)"
+,
+"+962"
+,
+".jo"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Kazajistán"
+,
+"Astaná"
+,
+"17.186.000 (2014)"
+,
+"2.724.900 km2"
+,
+"16. 12. 1991"
+,
+"Khan Tangiri Shyngy (Pik Khan-Tengri) (7.010 m)"
+,
+"dolar 13.526 (FMI, 2012)"
+,
+"tenge kazajo (KZT)"
+,
+"KZ (KAZ)"
+,
+"+7"
+,
+".kz"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Kirguistán"
+,
+"Biskek"
+,
+"5.663.133 (2013)"
+,
+"199.900 km2"
+,
+"31. 8. 1991"
+,
+"Jengish Chokusu (7.439 m)"
+,
+"dolar 2.351 (FMI, 2012)"
+,
+"som kirguís (KGS)"
+,
+"KG (KGZ)"
+,
+"+996"
+,
+".kg"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Kuwait"
+,
+"Ciudad de Kuwait"
+,
+"3.065.850 (2011)"
+,
+"17.818 km2"
+,
+"19. 6. 1961"
+,
+"306 m"
+,
+"dolar 39.874 (FMI, 2012)"
+,
+"dinar kuwaití (KWD)"
+,
+"KW (KWT)"
+,
+"+965"
+,
+".kw"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Laos"
+,
+"Vientiane"
+,
+"6.580.800 (2013)"
+,
+"236.800 km2"
+,
+"19. 7. 1949"
+,
+"Phou Bia (2.817 m)"
+,
+"dolar 2.847 (FMI, 2012)"
+,
+"kip laosiano (LAK)"
+,
+"LA (LAO)"
+,
+"+856"
+,
+".la"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Líbano"
+,
+"Beirut"
+,
+"4.822.000 (2013)"
+,
+"10.400 km2"
+,
+"22. 11. 1943"
+,
+"Qurnat as Sawda' (3.088 m)"
+,
+"dolar 15.587 (FMI, 2012)"
+,
+"la libra libanesa (LBP)"
+,
+"LB (LBN)"
+,
+"+961"
+,
+".lb"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Malasia"
+,
+"Kuala Lumpur"
+,
+"30.041.000 (2014)"
+,
+"329.847 km2"
+,
+"31. 8. 1957"
+,
+"Gunung Kinabalu (4.095 m)"
+,
+"dolar 16.794 (FMI, 2012)"
+,
+"ringgit (MYR)"
+,
+"MY (MYS)"
+,
+"+60"
+,
+".my"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Maldivas"
+,
+"Malé"
+,
+"317.280 (2010)"
+,
+"298 km2"
+,
+"26. 7. 1965"
+,
+"2 m"
+,
+"dolar 8.856 (FMI, 2012)"
+,
+"rupia de maldivas (MVR)"
+,
+"MV (MDV)"
+,
+"+960"
+,
+".mv"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Mongolia"
+,
+"Ulán Bator"
+,
+"2.931.300 (2013)"
+,
+"1.564.120 km2"
+,
+"11. 7. 1921"
+,
+"Khüiten Peak (Huyten Orgil) (4.374 m)"
+,
+"dolar 5.314 (FMI, 2012)"
+,
+"tugrik mongol (MNT)"
+,
+"MN (MNG)"
+,
+"+976"
+,
+".mn"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Myanmar"
+,
+"Naypyidaw"
+,
+"53.259.000 (2013)"
+,
+"676.578 km2"
+,
+"4. 1. 1948"
+,
+"Hkakabo Razi (5.881 m)"
+,
+"dolar 1.612 (FMI, 2012)"
+,
+"kyat birmano (MMK)"
+,
+"MM (MMR)"
+,
+"+95"
+,
+".mm"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Nepal"
+,
+"Katmandú"
+,
+"26.494.504 (2011)"
+,
+"147.181 km2"
+,
+"1. 1. 1768"
+,
+"Mount Everest (8.848 m)"
+,
+"dolar 1.457 (FMI, 2012)"
+,
+"rupia nepalí (NPR)"
+,
+"NP (NPL)"
+,
+"+977"
+,
+".np"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Omán"
+,
+"Mascate"
+,
+"3.957.000 (2013)"
+,
+"309.500 km2"
+,
+"1. 1. 1650"
+,
+"Jabal Shams (2.980 m)"
+,
+"dolar 28.843 (FMI, 2012)"
+,
+"rial omaní (OMR)"
+,
+"OM (OMN)"
+,
+"+968"
+,
+".om"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Pakistán"
+,
+"Islamabad"
+,
+"185.914.000 (2014)"
+,
+"796.095 km2"
+,
+"14. 8. 1947"
+,
+"K2 (8.611 m)"
+,
+"dolar 3.056 (FMI, 2012)"
+,
+"rupia pakistaní (PKR)"
+,
+"PK (PAK)"
+,
+"+92"
+,
+".pk"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Qatar"
+,
+"Doha"
+,
+"2.045.239 (2013)"
+,
+"11.000 km2"
+,
+"3. 9. 1971"
+,
+"Qurayn Abu al Bawl (103 m)"
+,
+"dolar 100.889 (FMI, 2012)"
+,
+"qatar rial (QAR)"
+,
+"QA (QAT)"
+,
+"+974"
+,
+".qa"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Rusia"
+,
+"Moscú"
+,
+"143.700.000 (2014)"
+,
+"17.098.200 km2"
+,
+"24. 8. 1991"
+,
+"Mount Elbrus (5.642 m)"
+,
+"dolar 17.518 (FMI, 2012)"
+,
+"rublo ruso (RUB)"
+,
+"RU (RUS)"
+,
+"+7"
+,
+".ru"
+,
+"Asia, Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Singapur"
+,
+"Singapur"
+,
+"5.399.200 (2013)"
+,
+"683 km2"
+,
+"9. 8. 1965"
+,
+"Bukit Timah (166 m)"
+,
+"dolar 60.799 (FMI, 2012)"
+,
+"dólar de singapur (SGD)"
+,
+"SG (SGP)"
+,
+"+65"
+,
+".sg"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Siria"
+,
+"Damasco"
+,
+"21.898.000 (2013)"
+,
+"185.180 km2"
+,
+"17. 4. 1946"
+,
+"Mount Hermon (2.814 m)"
+,
+"/"
+,
+"la libra siria (SYP)"
+,
+"SY (SYR)"
+,
+"+963"
+,
+".sy"
+,
+"Asia"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Tailandia"
+,
+"Bangkok"
+,
+"65.926.261 (2010)"
+,
+"513.115 km2"
+,
+"1. 1. 1238"
+,
+"Doi Inthanon (2.565 m)"
+,
+"dolar 9.503 (FMI, 2012)"
+,
+"baht tailandés (THB)"
+,
+"TH (THA)"
+,
+"+66"
+,
+".th"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Taiwán"
+,
+"Taipei"
+,
+"23.379.129 (2014)"
+,
+"36.188 km2"
+,
+"/"
+,
+"Yu Shan (3.952 m)"
+,
+"dolar 38.400 (FMI, 2012)"
+,
+"yuan chino (CNY)"
+,
+"TW (TWN)"
+,
+"+886"
+,
+".tw"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Tayikistán"
+,
+"Dushanbe"
+,
+"8.160.000 (2014)"
+,
+"143.100 km2"
+,
+"9. 9. 1991"
+,
+"Ismoil Somoni Peak (7.495 m)"
+,
+"dolar 2.205 (FMI, 2012)"
+,
+"renminbi (TJS)"
+,
+"TJ (TJK)"
+,
+"+992"
+,
+".tj"
+,
+"Asia"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Turkmenistán"
+,
+"Asjabad"
+,
+"5.240.000 (2013)"
+,
+"488.100 km2"
+,
+"27. 10. 1991"
+,
+"Gora Ayribaba (3.139 m)"
+,
+"dolar 8.641 (FMI, 2012)"
+,
+"manat turkmeno (TMM)"
+,
+"TM (TKM)"
+,
+"+993"
+,
+".tm"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Turquía"
+,
+"Ankara"
+,
+"76.667.864 (2013)"
+,
+"783.562 km2"
+,
+"29. 10. 1923"
+,
+"Mount Ararat (5.137 m)"
+,
+"dolar 14.812 (FMI, 2012)"
+,
+"lira turca (TRY)"
+,
+"TR (TUR)"
+,
+"+90"
+,
+".tr"
+,
+"Asia, Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Uzbekistán"
+,
+"Taskent"
+,
+"30.183.400 (2013)"
+,
+"447.400 km2"
+,
+"1. 9. 1991"
+,
+"4.643 m"
+,
+"dolar 3.523 (FMI, 2012)"
+,
+"som uzbeko (UZS)"
+,
+"UZ (UZB)"
+,
+"+998"
+,
+".uz"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Vietnam"
+,
+"Hanoi"
+,
+"89.708.900 (2013)"
+,
+"331.689 km2"
+,
+"2. 9. 1945"
+,
+"Fan Si Pan (3.144 m)"
+,
+"dolar 3.788 (FMI, 2012)"
+,
+"đồng vietnamita (VND)"
+,
+"VN (VNM)"
+,
+"+84"
+,
+".vn"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Yemen"
+,
+"Saná"
+,
+"25.235.000 (2013)"
+,
+"527.968 km2"
+,
+"22. 5. 1990"
+,
+"Jabal an Nabi Shu'ayb (3.666 m)"
+,
+"dolar 2.251 (FMI, 2012)"
+,
+"rial yemení (YER)"
+,
+"YE (YEM)"
+,
+"+967"
+,
+".ye"
+,
+"Asia"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Albania"
+,
+"Tirana"
+,
+"2.821.977 (2011)"
+,
+"28.748 km2"
+,
+"28. 11. 1912"
+,
+"Golem Korab (Maja e Korabit) (2.764 m)"
+,
+"dolar 7.997 (FMI, 2012)"
+,
+"lek albanés (ALL)"
+,
+"AL (ALB)"
+,
+"+355"
+,
+".al"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Alemania"
+,
+"Berlín"
+,
+"80.619.000 (2013)"
+,
+"357.022 km2"
+,
+"18. 1. 1871"
+,
+"Zugspitze (2.962 m)"
+,
+"dolar 38.666 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"DE (DEU)"
+,
+"+49"
+,
+".de"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Andorra"
+,
+"Andorra la Vieja"
+,
+"76.098 (2013)"
+,
+"468 km2"
+,
+"1. 1. 1278"
+,
+"Coma Pedrosa (2.946 m)"
+,
+"/"
+,
+"euro (EUR)"
+,
+"AD (AND)"
+,
+"+376"
+,
+".ad"
+,
+"Europa"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Austria"
+,
+"Viena"
+,
+"8.504.850 (2014)"
+,
+"83.858 km2"
+,
+"1. 1. 1156"
+,
+"Großglockner (3.798 m)"
+,
+"dolar 41.908 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"AT (AUT)"
+,
+"+43"
+,
+".at"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Bélgica"
+,
+"Bruselas"
+,
+"11.132.269 (2014)"
+,
+"32.545 km2"
+,
+"4. 10. 1830"
+,
+"Signal de Botrange (694 m)"
+,
+"dolar 37.459 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"BE (BEL)"
+,
+"+32"
+,
+".be"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Bielorrusia"
+,
+"Minsk"
+,
+"9.468.100 (2014)"
+,
+"207.600 km2"
+,
+"25. 8. 1991"
+,
+"Dzyarzhynskaya Hara (346 m)"
+,
+"dolar 15.479 (FMI, 2012)"
+,
+"rublo bielorruso (BYR)"
+,
+"BY (BLR)"
+,
+"+375"
+,
+".by"
+,
+"Europa"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Bulgaria"
+,
+"Sofía"
+,
+"7.282.041 (2012)"
+,
+"110.912 km2"
+,
+"3. 3. 1878"
+,
+"Musala (2.925 m)"
+,
+"dolar 14.103 (FMI, 2012)"
+,
+"lev (BGN)"
+,
+"BG (BGR)"
+,
+"+359"
+,
+".bg"
+,
+"Europa"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Croacia"
+,
+"Zagreb"
+,
+"4.290.612 (2011)"
+,
+"56.538 km2"
+,
+"25. 6. 1991"
+,
+"Dinara (1.831 m)"
+,
+"dolar 17.618 (FMI, 2012)"
+,
+"kuna croata (HRK)"
+,
+"HR (HRV)"
+,
+"+385"
+,
+".hr"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Dinamarca"
+,
+"Copenhague"
+,
+"5.627.235 (2014)"
+,
+"43.094 km2"
+,
+"1. 1. 1849"
+,
+"Gunnbjørn (3.700 m)"
+,
+"dolar 37.324 (FMI, 2012)"
+,
+"corona danesa (DKK)"
+,
+"DK (DNK)"
+,
+"+45"
+,
+".dk"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Eslovaquia"
+,
+"Bratislava"
+,
+"5.415.949 (2013)"
+,
+"49.033 km2"
+,
+"1. 1. 1993"
+,
+"Gerlachovský štít (2.655 m)"
+,
+"dolar 24.142 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"SK (SVK)"
+,
+"+421"
+,
+".sk"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Eslovenia"
+,
+"Liubliana"
+,
+"2.061.963 (2014)"
+,
+"20.256 km2"
+,
+"25. 6. 1991"
+,
+"Triglav (2.864 m)"
+,
+"dolar 27.837 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"SI (SVN)"
+,
+"+386"
+,
+".si"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"España"
+,
+"Madrid"
+,
+"46.609.700 (2013)"
+,
+"505.992 km2"
+,
+"2. 1. 1492"
+,
+"Teide on Tenerife in the Canary Islands (3.718 m)"
+,
+"dolar 30.058 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"ES (ESP)"
+,
+"+34"
+,
+".es"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Estonia"
+,
+"Tallin"
+,
+"1.311.870 (2014)"
+,
+"45.100 km2"
+,
+"20. 8. 1991"
+,
+"Suur Munamägi (318 m)"
+,
+"dolar 21.714 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"EE (EST)"
+,
+"+372"
+,
+".ee"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Finlandia"
+,
+"Helsinki"
+,
+"5.452.821 (2014)"
+,
+"338.145 km2"
+,
+"6. 12. 1917"
+,
+"Halti (1.328 m)"
+,
+"dolar 35.771 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"FI (FIN)"
+,
+"+358"
+,
+".fi"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Francia"
+,
+"París"
+,
+"65.844.000 (2014)"
+,
+"551.500 km2"
+,
+"1. 1. 0486"
+,
+"Mont Blanc (4.807 m)"
+,
+"dolar 35.295 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"FR (FRA)"
+,
+"+33"
+,
+".fr"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Grecia"
+,
+"Atenas"
+,
+"10.815.197 (2011)"
+,
+"131.957 km2"
+,
+"1. 1. 1829"
+,
+"Mount Olympus (2.919 m)"
+,
+"dolar 24.260 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"GR (GRC)"
+,
+"+30"
+,
+".gr"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Hungría"
+,
+"Budapest"
+,
+"9.906.000 (2013)"
+,
+"93.032 km2"
+,
+"1. 1. 1001"
+,
+"Kékes (1.014 m)"
+,
+"dolar 19.497 (FMI, 2012)"
+,
+"forinto húngaro (HUF)"
+,
+"HU (HUN)"
+,
+"+36"
+,
+".hu"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Irlanda"
+,
+"Dublin"
+,
+"4.593.100 (2013)"
+,
+"70.273 km2"
+,
+"6. 12. 1921"
+,
+"Carrauntoohil (1.038 m)"
+,
+"dolar 40.716 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"IE (IRL)"
+,
+"+353"
+,
+".ie"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Islandia"
+,
+"Reykjavík"
+,
+"325.671 (2013)"
+,
+"103.000 km2"
+,
+"1. 12. 1918"
+,
+"Hvannadalshnjúkur (Hvannadalshnúkur) (2.110 m)"
+,
+"dolar 39.718 (FMI, 2012)"
+,
+"corona islandesa (ISK)"
+,
+"IS (ISL)"
+,
+"+354"
+,
+".is"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Italia"
+,
+"Roma"
+,
+"59.943.933 (2013)"
+,
+"301.318 km2"
+,
+"17. 3. 1861"
+,
+"Mont Blanc (4.807 m)"
+,
+"dolar 29.812 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"IT (ITA)"
+,
+"+39"
+,
+".it"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Kosovo"
+,
+"Pristina"
+,
+"1.815.606 (2012)"
+,
+"10.887 km2"
+,
+"17. 2. 2008"
+,
+"Djeravica (2.656 m)"
+,
+"dolar 7.506 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"KS (KSV)"
+,
+"/"
+,
+"/"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Letonia"
+,
+"Riga"
+,
+"2.003.900 (2014)"
+,
+"64.600 km2"
+,
+"21. 8. 1991"
+,
+"Gaizinkalns (312 m)"
+,
+"dolar 18.058 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"LV (LVA)"
+,
+"+371"
+,
+".lv"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Liechtenstein"
+,
+"Vaduz"
+,
+"37.132 (2013)"
+,
+"160 km2"
+,
+"23. 1. 1719"
+,
+"Grauspitz (2.599 m)"
+,
+"/"
+,
+"franco suizo (CHF)"
+,
+"LI (LIE)"
+,
+"+423"
+,
+".li"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Lituania"
+,
+"Vilna"
+,
+"2.941.953 (2014)"
+,
+"65.300 km2"
+,
+"11. 3. 1990"
+,
+"Aukštojas Hill (294 m)"
+,
+"dolar 21.383 (FMI, 2012)"
+,
+"lituano lit (LTL)"
+,
+"LT (LTU)"
+,
+"+370"
+,
+".lt"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Luxemburgo"
+,
+"Luxemburgo"
+,
+"537.000 (2012)"
+,
+"2.586 km2"
+,
+"1. 1. 1839"
+,
+"Kneiff (560 m)"
+,
+"dolar 77.958 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"LU (LUX)"
+,
+"+352"
+,
+".lu"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Malta"
+,
+"La Valeta"
+,
+"416.055 (2011)"
+,
+"316 km2"
+,
+"21. 9. 1964"
+,
+"Ta'Dmejrek (253 m)"
+,
+"dolar 26.857 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"MT (MLT)"
+,
+"+356"
+,
+".mt"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Moldavia"
+,
+"Chişinău"
+,
+"3.559.500 (2013)"
+,
+"33.851 km2"
+,
+"27. 8. 1991"
+,
+"Dealul Bălăneşti (430 m)"
+,
+"dolar 3.378 (FMI, 2012)"
+,
+"leu moldavo (MDL)"
+,
+"MD (MDA)"
+,
+"+373"
+,
+".md"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Mónaco"
+,
+"Mónaco"
+,
+"36.136 (2012)"
+,
+"2 km2"
+,
+"1. 1. 1419"
+,
+"Mont Agel (140 m)"
+,
+"/"
+,
+"euro (EUR)"
+,
+"MC (MCO)"
+,
+"+377"
+,
+".mc"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Montenegro"
+,
+"Podgorica"
+,
+"620.029 (2011)"
+,
+"13.812 km2"
+,
+"3. 6. 2006"
+,
+"Zla Kolata (2.534 m)"
+,
+"dolar 11.610 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"ME (MNE)"
+,
+"+382"
+,
+".me"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Noruega"
+,
+"Oslo"
+,
+"5.109.056 (2014)"
+,
+"385.155 km2"
+,
+"7. 6. 1905"
+,
+"Galdhøpiggen (2.469 m)"
+,
+"dolar 54.397 (FMI, 2012)"
+,
+"corona noruega (NOK)"
+,
+"NO (NOR)"
+,
+"+47"
+,
+".no"
+,
+"Europa"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Polonia"
+,
+"Varsovia"
+,
+"38.502.396 (2013)"
+,
+"312.685 km2"
+,
+"11. 11. 1918"
+,
+"Rysy (2.499 m)"
+,
+"dolar 20.562 (FMI, 2012)"
+,
+"złoty (PLN)"
+,
+"PL (POL)"
+,
+"+48"
+,
+".pl"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Portugal"
+,
+"Lisboa"
+,
+"10.487.289 (2012)"
+,
+"91.982 km2"
+,
+"1. 1. 1143"
+,
+"Ponta do Pico on Pico Island in the Azores (2.351 m)"
+,
+"dolar 23.047 (FMI, 2012)"
+,
+"euro (EUR)"
+,
+"PT (PRT)"
+,
+"+351"
+,
+".pt"
+,
+"Europa"
+);
+ 
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Rumania"
+,
+"Bucarest"
+,
+"20.121.641 (2011)"
+,
+"238.391 km2"
+,
+"9. 5. 1877"
+,
+"Moldoveanu (2.544 m)"
+,
+"dolar 12.722 (FMI, 2012)"
+,
+"leu rumano (RON)"
+,
+"RO (ROU)"
+,
+"+40"
+,
+".ro"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Rusia"
+,
+"Moscú"
+,
+"143.700.000 (2014)"
+,
+"17.098.200 km2"
+,
+"24. 8. 1991"
+,
+"Mount Elbrus (5.642 m)"
+,
+"dolar 17.518 (FMI, 2012)"
+,
+"rublo ruso (RUB)"
+,
+"RU (RUS)"
+,
+"+7"
+,
+".ru"
+,
+"Asia, Europa"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Serbia"
+,
+"Belgrado"
+,
+"7.181.505 (2013)"
+,
+"77.474 km2"
+,
+"5. 6. 2006"
+,
+"Midžor (2.169 m)"
+,
+"dolar 10.722 (FMI, 2012)"
+,
+"dinar serbio (RSD)"
+,
+"RS (SRB)"
+,
+"+381"
+,
+".rs"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Suecia"
+,
+"Estocolmo"
+,
+"9.651.531 (2014)"
+,
+"449.964 km2"
+,
+"6. 6. 1523"
+,
+"Kebnekaise (2.111 m)"
+,
+"dolar 40.304 (FMI, 2012)"
+,
+"corona sueca (SEK)"
+,
+"SE (SWE)"
+,
+"+46"
+,
+".se"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Suiza"
+,
+"Berna"
+,
+"8.112.200 (2013)"
+,
+"41.284 km2"
+,
+"1. 8. 1291"
+,
+"Dufourspitze (Pointe Dufour) (4.634 m)"
+,
+"dolar 44.864 (FMI, 2012)"
+,
+"franco suizo (CHF)"
+,
+"CH (CHE)"
+,
+"+41"
+,
+".ch"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Turquía"
+,
+"Ankara"
+,
+"76.667.864 (2013)"
+,
+"783.562 km2"
+,
+"29. 10. 1923"
+,
+"Mount Ararat (5.137 m)"
+,
+"dolar 14.812 (FMI, 2012)"
+,
+"lira turca (TRY)"
+,
+"TR (TUR)"
+,
+"+90"
+,
+".tr"
+,
+"Asia, Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Ucrania"
+,
+"Kiev"
+,
+"45.426.200 (2014)"
+,
+"603.700 km2"
+,
+"24. 8. 1991"
+,
+"Hora Hoverla (2.061 m)"
+,
+"dolar 7.295 (FMI, 2012)"
+,
+"grivna (UAH)"
+,
+"UA (UKR)"
+,
+"+380"
+,
+".ua"
+,
+"Europa"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Australia"
+,
+"Canberra"
+,
+"23.414.552 (2014)"
+,
+"7.741.220 km2"
+,
+"1. 1. 1901"
+,
+"Mawson Peak (2.745 m)"
+,
+"dolar 41.954 (FMI, 2012)"
+,
+"dólar tuvaluano (AUD)"
+,
+"AU (AUS)"
+,
+"+61"
+,
+".au"
+,
+"Oceanía"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Fiyi"
+,
+"Suva"
+,
+"858.038 (2012)"
+,
+"18.274 km2"
+,
+"10. 10. 1970"
+,
+"Tomanivi (1.324 m)"
+,
+"dolar 4.740 (FMI, 2012)"
+,
+"dólar fiyiano (FJD)"
+,
+"FJ (FJI)"
+,
+"+679"
+,
+".fj"
+,
+"Oceanía"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Indonesia"
+,
+"Yakarta"
+,
+"249.866.000 (2013)"
+,
+"1.904.570 km2"
+,
+"17. 8. 1945"
+,
+"Mount Carstensz (Puncak Jaya) (4.884 m)"
+,
+"dolar 4.923 (FMI, 2012)"
+,
+"rupia indonesia (IDR)"
+,
+"ID (IDN)"
+,
+"+62"
+,
+".id"
+,
+"Asia, Oceanía"
+);
+ 
+ 
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Kiribati"
+,
+"Tarawa"
+,
+"106.461 (2013)"
+,
+"726 km2"
+,
+"12. 7. 1979"
+,
+"81 m"
+,
+"dolar 6.241 (FMI, 2012)"
+,
+"dólar tuvaluano (AUD)"
+,
+"KI (KIR)"
+,
+"+686"
+,
+".ki"
+,
+"Oceanía"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Micronesia"
+,
+"Palikir"
+,
+"101.351 (2013)"
+,
+"702 km2"
+,
+"3. 11. 1986"
+,
+"Dolohmwar (Totolom) (791 m)"
+,
+"dolar 7.123 (FMI, 2012)"
+,
+"dólar de los estados unidos (USD)"
+,
+"FM (FSM)"
+,
+"+691"
+,
+".fm"
+,
+"Oceanía"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Nauru"
+,
+"Yaren"
+,
+"9.945 (2011)"
+,
+"21 km2"
+,
+"31. 1. 1968"
+,
+"Command Ridge (71 m)"
+,
+"/"
+,
+"dólar tuvaluano (AUD)"
+,
+"NR (NRU)"
+,
+"+674"
+,
+".nr"
+,
+"Oceanía"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Niue"
+,
+"Alofi"
+,
+"1.611 (2011)"
+,
+"260 km2"
+,
+"19. 8. 1974"
+,
+"/"
+,
+"dólar neozelandés (NZD)"
+,
+"NU (NIU)"
+,
+"+683"
+,
+".nu"
+,
+"Oceanía"
+,
+"
+Niue
+(Alofi)
+"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Palaos"
+,
+"Ngerulmud"
+,
+"20.901 (2013)"
+,
+"459 km2"
+,
+"1. 10. 1994"
+,
+"Mount Ngerchelchuus (242 m)"
+,
+"dolar 23.053 (FMI, 2012)"
+,
+"dólar de los estados unidos (USD)"
+,
+"PW (PLW)"
+,
+"+680"
+,
+".pw"
+,
+"Oceanía"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Samoa"
+,
+"Apia"
+,
+"187.820 (2011)"
+,
+"2.831 km2"
+,
+"1. 1. 1962"
+,
+"Mauga Silisili (Savaii) (1.857 m)"
+,
+"dolar 6.157 (FMI, 2012)"
+,
+"tala (WST)"
+,
+"WS (WSM)"
+,
+"+685"
+,
+".ws"
+,
+"Oceanía"
+);
+ 
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Tonga"
+,
+"Nuku'alofa"
+,
+"103.036 (2011)"
+,
+"747 km2"
+,
+"4. 6. 1970"
+,
+"1.033 m"
+,
+"dolar 7.987 (FMI, 2012)"
+,
+"paʻanga (TOP)"
+,
+"TO (TON)"
+,
+"+676"
+,
+".to"
+,
+"Oceanía"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Tuvalu"
+,
+"Funafuti"
+,
+"11.323 (2013)"
+,
+"26 km2"
+,
+"1. 10. 1978"
+,
+"5 m"
+,
+"dolar 3.443 (FMI, 2012)"
+,
+"dólar tuvaluano (AUD)"
+,
+"TV (TUV)"
+,
+"+688"
+,
+".tv"
+,
+"Oceanía"
+);
+INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (
+"Vanuatu"
+,
+"Port Vila"
+,
+"264.652 (2013)"
+,
+"12.189 km2"
+,
+"30. 7. 1980"
+,
+"Mount Tabwemasana (1.877 m)"
+,
+"dolar 4.843 (FMI, 2012)"
+,
+"vanuatu algodón (VUV)"
+,
+"VU (VUT)"
+,
+"+678"
+,
+".vu"
+,
+"Oceanía"
+);
