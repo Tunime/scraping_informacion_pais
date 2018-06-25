@@ -47,9 +47,15 @@ for i, nombrepaises in enumerate(nombrepaise):
             #si es diferente a 0
             if i!=0:
                 #si es menor a 8 saltos
-                if i<12:
+                if i==1:
+                    print("INSERT INTO `paises`(`pais_nombre`, `pais_capital`, `pais_poblacion`, `pais_areatotal`, `pais_declarada`, `pais_puntoalto`, `pais_pbi`, `pais_moneda`, `pais_codice`, `pais_prefijotelefonico`, `pais_dominioweb`, `pais_continente`) VALUES (")
+                if i<13:
                     informacion_rapads=informacion_rapados.getText()
-                    print(informacion_rapads)
+                    print("'"+informacion_rapads+"'")
+                    if i!=12:
+                        print(",")
+                if i==13:
+                    print(");")
             #lo metemos en el arry que definimos antes (identificador,datosaintroducir)
             #nombrepaise.insert(i,textpaises)
     #este else es para si no hay respues de la web
